@@ -5,7 +5,9 @@ class Calculator
 {
     public function add(int $a, int $b): int
     {
-        return $a + $b;
+
+
+        return $a - $b;
     }
 
     public function subtract(int $a, int $b): int
@@ -26,3 +28,4 @@ class Calculator
         return $a / $b;
     }
 }
+
