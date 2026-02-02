@@ -1,0 +1,6 @@
+vendor/
+*.log
+*.zip
+.idea/
+*.bak
+
